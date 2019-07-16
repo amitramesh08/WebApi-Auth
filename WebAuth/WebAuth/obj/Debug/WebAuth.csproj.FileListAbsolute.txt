@@ -75,3 +75,15 @@ D:\Auth\WebAuth\WebAuth\obj\Debug\WebAuth.csproj.CoreCompileInputs.cache
 D:\Auth\WebAuth\WebAuth\obj\Debug\WebAuth.csproj.CopyComplete
 D:\Auth\WebAuth\WebAuth\obj\Debug\WebAuth.dll
 D:\Auth\WebAuth\WebAuth\obj\Debug\WebAuth.pdb
+D:\Auth\WebAuth\WebAuth\bin\Microsoft.Owin.Cors.dll
+D:\Auth\WebAuth\WebAuth\bin\Microsoft.Owin.dll
+D:\Auth\WebAuth\WebAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Auth\WebAuth\WebAuth\bin\Microsoft.Owin.Security.dll
+D:\Auth\WebAuth\WebAuth\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Auth\WebAuth\WebAuth\bin\Owin.dll
+D:\Auth\WebAuth\WebAuth\bin\System.Web.Cors.dll
+D:\Auth\WebAuth\WebAuth\bin\Microsoft.Owin.xml
+D:\Auth\WebAuth\WebAuth\bin\Microsoft.Owin.Cors.xml
+D:\Auth\WebAuth\WebAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Auth\WebAuth\WebAuth\bin\Microsoft.Owin.Security.xml
+D:\Auth\WebAuth\WebAuth\bin\Microsoft.Owin.Security.OAuth.xml
